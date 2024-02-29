@@ -1,0 +1,11 @@
+paypal:
+  client-id: "client id"
+  client-secret: "client secret"
+  mode: sandbox # Use sandbox for testing and live for production
+
+#server:
+#  ssl:
+#    key-store: classpath:keystore.jks
+#    key-store-password: 123456789
+#    key-store-type: JKS
+#    key-alias: tomcat
